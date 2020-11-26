@@ -1,4 +1,4 @@
-# platform2
+# platform
 
 ## Project setup
 ```
